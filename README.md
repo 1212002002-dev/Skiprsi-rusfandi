@@ -16,3 +16,10 @@ Tujuan penelitian ini adalah untuk menganalisis sebaran sekolah SMA dan SMK di K
 4. Menyediakan data dan peta hasil analisis yang dapat diakses secara terbuka.
 
 ---
+##Analisis Buffer SMA dan SMK di Kota Cirebon 
+
+<img width="834" height="591" alt="image" src="https://github.com/user-attachments/assets/f1b18ac6-cb65-48e8-8a35-c9ffe645ede2" />
+
+
+##Analisis Populasi 
+<img width="915" height="655" alt="image" src="https://github.com/user-attachments/assets/fbc4375f-95d5-4b64-af27-8be44cc9d6e1" />
